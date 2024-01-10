@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 > “You know you are on the road to success if you would do your job, and not be paid for it.” 
 — _Oprah Winfrey._ 😆
 
--  
+<br/> 
 > “Opportunities cone to pass, not to pause, so grab them!” 
 — _Unknown_
 
