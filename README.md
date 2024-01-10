@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 ***Something to Ponder*** 💬
 ---
 > “You know you are on the road to success if you would do your job, and not be paid for it.” 
-— Oprah Winfrey. 😆
-> "Opportunities cone to pass, not to pause, so grab them!"
+— _Oprah Winfrey._ 😆
+
+-  
+> “Opportunities cone to pass, not to pause, so grab them!” 
 — _Unknown_
 
 ***Work Without Play*** 🎲
