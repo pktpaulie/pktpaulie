@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔍***Pauline's World***
+***Pauline's World*** 🔍
 ---
-- 👷 I have worked in the automotive industry in Uganda for a bit
+- 👷 I have worked in the automotive industry in Uganda for 10 years building supervisory control firmware, leading the finest minds, and breathing life into new ideas and products
 - 🔭 I’m currently working on my second Master's degree at Indiana University - Purdue University Fort Wayne 📚
 - 🆕 I’m currently improving my skills in web development, artificial intelligence 🤖, and machine learning
 - 👯 I’m looking to collaborate on web and mobile 📱 projects
@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 </details>
 
 
-***Something to Ponder*** 😆😆
+***Something to Ponder*** 💬
 ---
 > “You know you are on the road to success if you would do your job, and not be paid for it.” 
-— Oprah Winfrey.
+— Oprah Winfrey. 😆
+> "Opportunities cone to pass, not to pause, so grab them!"
+— _Unknown_
 
 ***Work Without Play*** 🎲
 ---
