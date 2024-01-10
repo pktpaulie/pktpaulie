@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my second Master's degree
-- 🌱 I’m currently learning web development, artificial intelligence and machine learning
+- 🌱 I’m currently learning data manipulation, web development, artificial intelligence and machine learning
 - 👯 I’m looking to collaborate on web and mobile projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
