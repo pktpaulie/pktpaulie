@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my second Master's degree
-- 🌱 I’m currently learning data manipulation, web development, artificial intelligence and machine learning
+- 🌱 I’m currently learning  web development, artificial intelligence and machine learning
 - 👯 I’m looking to collaborate on web and mobile projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 - 👷 I have worked in the automotive industry in Uganda for 10 years building supervisory control firmware, leading the finest minds, and breathing life into new ideas and products
 - 🔭 I’m currently working on my second Master's degree at Indiana University - Purdue University Fort Wayne 📚
-- 🆕 I’m currently improving my skills in web development, artificial intelligence 🤖, and machine learning
+- 🆕 I’m currently improving my skills in data manipulation, web development, artificial intelligence 🤖, and machine learning
 - 👯 I’m looking to collaborate on web and mobile 📱 projects
 - ⚡I am interested in developing intelligent firmware for vehicle control
 
