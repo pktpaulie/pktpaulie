@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔍***Pauline's World***
+---
 - 👷 I have worked in the automotive industry in Uganda for a bit
 - 🔭 I’m currently working on my second Master's degree at Indiana University - Purdue University Fort Wayne 📚
 - 🆕 I’m currently improving my skills in web development, artificial intelligence 🤖, and machine learning
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary> Tech Stack </summary>
-
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    | 
