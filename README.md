@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br> 
 
-> “Opportunities cone to pass, not to pause, so grab them!” 
+> “Opportunities come to pass, not to pause, so grab them!” 
 — _Unknown_
 
 ***Work Without Play*** 🎲
