@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ***Pauline's World*** 🔍
 ---
 - 👷 I have worked in the automotive industry in Uganda for 10 years building supervisory control firmware, leading the finest minds, and breathing life into new ideas and products
-- 🔭 I’m currently working on my second Master's degree at Indiana University - Purdue University Fort Wayne 📚
+- 🔭 I’m currently working on my second Master's degree at Purdue University Fort Wayne 📚
 - 🆕 I’m currently improving my skills in data manipulation, web development, artificial intelligence 🤖, and machine learning
 - 👯 I’m looking to collaborate on web and mobile 📱 projects
 - ⚡I am interested in developing intelligent firmware for vehicle control
